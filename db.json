@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "customers": [
+    {
+    id: 1,
+    org_id: 'Test',
+    email: 'test@test.pl',
+    phone: '800200300',
+    first_name: 'Test',
+    last_name: 'testest',
+    address_line1: 'Testowa',
+    address_line2: 'Test2',
+    postal: '00-000',
+    city: 'test'
+    },
+    {
+    id: 2,
+    org_id: 'Test',
+    email: 'tes2t@test.pl',
+    phone: '800200301',
+    first_name: 'Test2',
+    last_name: 'testest2',
+    address_line1: 'Testo22wa',
+    address_line2: 'Test2',
+    postal: '00-000',
+    city: 'test'
+    },
+  ]
 }
