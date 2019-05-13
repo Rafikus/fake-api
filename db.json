@@ -1,28 +1,40 @@
 {
   "customers": [
     {
-    id: 1,
-    org_id: 'Test',
-    email: 'test@test.pl',
-    phone: '800200300',
-    first_name: 'Test',
-    last_name: 'testest',
-    address_line1: 'Testowa',
-    address_line2: 'Test2',
-    postal: '00-000',
-    city: 'test'
+    "id": 1,
+    "org_id": "Test",
+    "email": "test@test.pl",
+    "phone": "800200300",
+    "first_name": "Test",
+    "last_name": "testest",
+    "address_line1": "Testowa",
+    "address_line2": "Test2",
+    "postal": "00-000",
+    "city": "test"
     },
     {
-    id: 2,
-    org_id: 'Test',
-    email: 'tes2t@test.pl',
-    phone: '800200301',
-    first_name: 'Test2',
-    last_name: 'testest2',
-    address_line1: 'Testo22wa',
-    address_line2: 'Test2',
-    postal: '00-000',
-    city: 'test'
+    "id": 2,
+    "org_id": "Test2",
+    "email": "test@tes2t.pl",
+    "phone": "8002003020",
+    "first_name": "Tes2t",
+    "last_name": "test2est",
+    "address_line1": "Test2owa",
+    "address_line2": "Test22",
+    "postal": "00-0020",
+    "city": "te2st"
+    },
+    {
+    "id": 3,
+    "org_id": "Te3st",
+    "email": "te3st@test.pl",
+    "phone": "8002300300",
+    "first_name": "Tes3t",
+    "last_name": "test3est",
+    "address_line1": "Te3stowa",
+    "address_line2": "Te3st2",
+    "postal": "00-0030",
+    "city": "te3st"
     },
   ]
 }
