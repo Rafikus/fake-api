@@ -74,5 +74,13 @@
     "postal": "00-0030",
     "city": "te3st"
     }
+  ],
+  "articles": [
+    "test_01",
+    "test_02",
+    "test_03",
+    "test_04",
+    "test_05",
+    "test_06"
   ]
 }
